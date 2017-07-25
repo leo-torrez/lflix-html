@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "iflix-html",
   "version": "1.0.0",
   "description": "Portfolio de Léo Torrez",
   "main": "app.js",
@@ -31,5 +31,13 @@
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^3.0.0",
     "util": "^0.10.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-torrez/lflix-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leo-torrez/lflix-html/issues"
+  },
+  "homepage": "https://github.com/leo-torrez/lflix-html#readme"
 }
